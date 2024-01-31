@@ -1,4 +1,88 @@
 [
+
+  {
+		"brand": "Hepu",
+		"articleCode": "P999",
+		"articleCodeFix": "P999",
+		"articleId": "2854918",
+		"description": "Антифриз [синий] 1,5л.",
+		"availability": "-1",
+		"deliveryPeriod": 3,
+		"price": 231,
+		"weight": "0",
+
+    "crosses": [
+  {
+   "brand": "Brembo",
+   "number": "09.7011.11",
+   "numberFix": "09701111"
+  },
+
+  {
+   "brand": "Febi",
+   "number": "14404",
+   "numberFix": "14404"
+  },
+
+  {
+   "brand": "Jurid",
+   "number": "562040J",
+   "numberFix": "562040J"
+  },
+
+  {
+   "brand": "Zimmermann",
+   "number": "100 1233 20",
+   "numberFix": "100123320"
+  }
+ ]
+	},
+
+   {
+		"brand": "Hepu",
+		"articleCode": "P999",
+		"articleCodeFix": "P999",
+		"articleId": "2854918",
+		"description": "Антифриз [синий] 1,5л.",
+		"availability": "-1",
+		"deliveryPeriod": 3,
+		"price": 231,
+		"weight": "0",
+
+    "crosses": [
+  {
+   "brand": "Brembo",
+   "number": "09.7011.11",
+   "numberFix": "09701111"
+  },
+
+  {
+   "brand": "Febi",
+   "number": "14404",
+   "numberFix": "14404"
+  },
+
+  {
+   "brand": "Jurid",
+   "number": "562040J",
+   "numberFix": "562040J"
+  },
+
+  {
+   "brand": "Zimmermann",
+   "number": "100 1233 20",
+   "numberFix": "100123320"
+  }
+ ]
+	},
+
+
+
+
+
+
+
+
   {
     "id": "AeHIrLTr6JkxGE6SN-0Rw",
     "name": "Allen Raymond",
@@ -65,4 +149,24 @@
     "email": "monika@best.com",
     "phone": "067-111-21-01"
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
+
