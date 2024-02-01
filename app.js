@@ -5,12 +5,16 @@ const dotenv = require("dotenv");
 
 dotenv.config();
 
+// const autoPartsRouter = require("./routes/api/autoParts");
+
 const app = express();
 
 const formatsLogger = app.get("env") === "development" ? "dev" : "short";
 
 app.use(logger(formatsLogger));
 app.use(cors());
+
+// app.use("/api/parts", autoPartsRouter);
 
 app.use((req, res) => {
   res.status(404).json({ message: "Not Found" });

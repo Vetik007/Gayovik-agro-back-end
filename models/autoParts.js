@@ -5,6 +5,6 @@ const JohnDeereSchema = new Schema();
 
 JohnDeereSchema.post("save", handleMongooseError);
 
-const AutoPart = model("äutoPart", JohnDeereSchema);
+const AutoPart = model("autoPart", JohnDeereSchema);
 
 module.exports = AutoPart;
